@@ -12,7 +12,7 @@ public abstract class Stock {
 	private static final int MAX_AMOUNT = 9999;
 	
 		
-	// getter
+	// getter 
 	public static ArrayList<Product> getFullStock() {
 		return stockList;
 	}
